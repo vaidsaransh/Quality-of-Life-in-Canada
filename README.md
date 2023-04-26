@@ -1,7 +1,7 @@
 # Quality-of-Life-in-Canada
 Conducted an analysis of the Quality of Life Hub framework utilizing R-Studio in order to measure and compare the quality of life across various Canadian provinces.  
 
-#Project Overview
+# Project Overview
 
 Measures selected
 
@@ -26,7 +26,7 @@ Domain: Safety and security
 Subdomain: Personal Safety
 Analysis: Reports made of violent and not violent crimes
 
-#Conclusion
+# Conclusion
 
 Despite some provinces having higher unemployment rates, the overall unemployment rate is relatively low, and the population has access to job opportunities.
 
