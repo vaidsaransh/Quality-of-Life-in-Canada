@@ -7,24 +7,23 @@ Measures selected
 
 Prosperity
 Domain: Economic
-Subdomain & Analysis: Population vs unemployment rate
+
 
 Health
 Domain: Healthy People
-Subdomain & Analysis: Health adjusted life expectancy Analysis: Perceived mental health
+
 
 Society
 Domain: Culture and Identity
-Subdomain & analysis: Sense of Belonging
+
 
 Environment
-Domain: Ecological Integrity & environmental stewardship Analysis: Greenhouse gas emissions
-Good Domain: Safety and security
+Domain: Ecological Integrity & environmental stewardship
+
 
 Good Governance
 Domain: Safety and security
-Subdomain: Personal Safety
-Analysis: Reports made of violent and not violent crimes
+
 
 # Conclusion
 
